@@ -1,4 +1,4 @@
-Projest is in progress
+Project is in progress
 
 This is a simple calculator created with React.js
 
