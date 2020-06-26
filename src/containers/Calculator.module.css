@@ -1,0 +1,24 @@
+.Calculator{
+  background-color: rgb(207, 204, 200);
+  position: relative;
+  margin: 7% auto auto auto;
+  padding: 20px 8px 8px 20px;
+  width: 400px;
+  text-align: center;
+  border-color: rgb(99, 94, 97);
+  border-radius: 20px;
+  box-shadow: inset 2px 0px 10px -5px rgb(85, 80, 83),
+              inset -5px 0px 15px -5px rgb(85, 80, 83),
+              inset 10px 0px 10px -12px rgb(85, 80, 83),
+              inset -2px 0px 4px 2px rgb(85, 80, 83),
+              inset -2px 0px 10px 0px rgb(85, 80, 83);
+}
+
+.Display{
+  background-color:  rgb(238, 234, 228);
+  width: 80%;
+  height: 40px;
+  text-align: right;
+  font-size: 2em;
+  margin: auto auto 10px auto;
+}
