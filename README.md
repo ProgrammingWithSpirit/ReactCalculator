@@ -1,3 +1,5 @@
+Projest is in progress
+
 This is a simple calculator created with React.js
 
 To run in the development mode:
